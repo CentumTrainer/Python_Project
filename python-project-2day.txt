@@ -1,0 +1,99 @@
+Python Project:-
+===============
+
+Sentimental analysis  Tweeter API's:-
+====================================
+
+Modules:-
+========
+
+1. tweepy
+2. matplotlib
+3. textblob
+4. pandas
+5. jinja2
+6. mdl3
+
+==============================================
+
+* How to install Python-idle in windows....
+  -----------------------------------------
+
+Step-By-Step installation
+=========================
+
+Step-1- 
+======
+		* go to https://www.python.org
+		* click on donloads & run as administrator		 
+
+
+
+* How to install above mentioned modules for RealtimeSentimental Analysis Project.
+ -------------------------------------------------------------------------
+
+0. how to install pip
+===========================		
+
+python3 get-pip.py
+
+===========================
+
+
+
+1. open cmd prompt install- pip manager
+---------------------------------------
+Pip is a package install manager for Python and it is installed alongside the new Python distributions.
+
+=============================
+pip install manager 
+=============================
+
+
+2. install pandas---
+
+	type on cmd prompt-(
+===========================
+   pip install pandas   
+=========================
+
+3. install tweepy---
+
+	type on cmd prompt-(
+===========================
+   pip install tweepy  
+=========================
+
+4. install textblob---
+
+	type on cmd prompt-(
+===========================
+   pip install -U textblob  
+==========================
+
+
+
+5.install matplotlib---
+
+	type on cmd prompt-(
+===========================
+   pip install --user matplotlib  
+===============================
+
+6.install mpld3---
+
+	type on cmd prompt-(
+===========================
+   pip install mpld3 
+==========================
+
+7. install jinja2---
+
+	type on cmd prompt-(
+===========================
+   pip install -U jinja2  
+==========================
+
+
+
+ 

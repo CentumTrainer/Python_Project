@@ -1,0 +1,48 @@
+This project will fetch data from twitter in realtime and processed to check whether the views of people are positive weakpositive strongpositive negative weaknegative strongnegative or neutral.
+
+
+TCS- 500 tweets - Positive
+		  weakpositive
+		  strongpositive
+		  Negative
+		  weaknegative
+	 	  strongnegative
+		  Neutral
+
+Capgemini - 500 tweets -
+		  Positive
+		  weakpositive
+		  strongpositive
+		  Negative
+		  weaknegative
+	 	  strongnegative
+		  Neutral
+
+
+Infosys - 500 tweets
+		  Positive
+		  weakpositive
+		  strongpositive
+		  Negative
+		  weaknegative
+	 	  strongnegative
+		  Neutral
+
+
+==================================================
+
+Step1 :-Developer account on twitter to get Twitter API's
+	
+	Consumer Key -  
+	Secret Key -	
+	accessToken - 
+	accessTokenSecret = 
+		
+
+*Pandas Module - for preprocessing
+*Tweepy	Module - to fetch tweets
+*Re 	       - regular expression for cleaning text
+*Textblob      - for sentiment analysis (inside using naive bayes)
+*Matplotlib    - for graphically data representation
+ 
+
